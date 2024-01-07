@@ -20,7 +20,7 @@ public class DemoA {
 	}
 
 	public static void name(String firstName, String lastName){
-		system.out.println(firstName + " " + lastName);
+		System.out.println(firstName + " " + lastName);
 	}
 
 }
