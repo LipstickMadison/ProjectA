@@ -19,4 +19,8 @@ public class DemoA {
 		System.out.println(a-b);
 	}
 
+	public static void name(String firstName, String lastName){
+		system.out.println(firstName + " " + lastName);
+	}
+
 }
